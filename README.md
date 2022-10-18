@@ -163,3 +163,4 @@ Thus, if a story is displayed in multiple panels, Project Tracker show the edits
 Project Tracker Copyright (c) Dexter Sealy
 
 Project Tracker is free software; you can distribute it and/or modify it subject to the terms of the [MIT license](https://opensource.org/licenses/MIT).
+.
